@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+}
+
+a{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;}
+
+.link-container{
+    background-color: #02b3e4;
+    margin-top: 2em;
+    padding: 0.5em;
+    border-radius: 1.5em;
+    width: 70%;
+    overflow-x: auto;
+}
+
+#links-list{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 1.5em;
+}
