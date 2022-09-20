@@ -18,6 +18,6 @@ npm run build
 ## Usage
 1. Put the files you want to share in the TOShare folder :wink:
 2. Make sure yor PC and the other device you want to send files is connected (on the same wi-fi or the local network).
-3. Start the app server by typing in the console `npm run start` :wink:. the URL will appere
-4. type that URL in broweser search box of the device you want to share files with
-5. Star us on github :relaxed:
+3. Start the app server by typing in the console `npm run start` :wink:
+4. A URL will apperare in the console. Type that URL in browser search box of the device you want to share files with
+5. All things are done and don't forget toStar us on github :relaxed:
